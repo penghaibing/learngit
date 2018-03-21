@@ -1,0 +1,5 @@
+【链接】RVM安装
+https://ruby-china.org/wiki/rvm-guide
+
+【链接】rbenv使用指南
+https://ruby-china.org/wiki/rbenv-guide
